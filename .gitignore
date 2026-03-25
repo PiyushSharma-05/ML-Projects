@@ -1,6 +1,6 @@
 *.png
 !model_comparison.png
 01.0)Problem_Statement.jpg
-01.1)Problem_Statement continued.jpg
+01.1)Problem_Statement_continued.jpg
 .ipynb_checkpoints/
 __pycache__/
